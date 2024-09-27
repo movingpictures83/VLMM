@@ -1,0 +1,2 @@
+Prefix plugins/VLMM/example/
+Plugin VLMM inputfile parameters.txt outputfile abundances.csv
